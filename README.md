@@ -199,7 +199,7 @@
 
   <header>
     <nav>
-      <div class="brand">Jerbhel</div>
+      <div class="brand"></div>
       <ul class="nav-links">
         <li><a href="#about">About</a></li>
         <li><a href="#projects">Projects</a></li>
