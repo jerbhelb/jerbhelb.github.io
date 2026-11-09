@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -200,7 +199,7 @@
 
   <header>
     <nav>
-      <div class="brand">Your Name</div>
+      <div class="brand">Jerbhel</div>
       <ul class="nav-links">
         <li><a href="#about">About</a></li>
         <li><a href="#projects">Projects</a></li>
@@ -212,8 +211,8 @@
 
   <main class="container">
     <section class="hero">
-      <h1>Hello, I'm Your Name</h1>
-      <p>Full-Stack Developer focused on building clean web applications and open-source tools.</p>
+      <h1>Hello, I'm Jerbhel Beltran</h1>
+      <p>An aspiring individual that aims to pursue Data Analytics and Sciences.</p>
       <a href="#projects" class="btn">View Projects</a>
     </section>
 
